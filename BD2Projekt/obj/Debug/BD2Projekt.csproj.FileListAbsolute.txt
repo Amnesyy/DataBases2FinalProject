@@ -1,0 +1,8 @@
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\obj\Debug\BD2Projekt.csproj.AssemblyReference.cache
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\obj\Debug\BD2Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\obj\Debug\BD2Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\bin\Debug\BD2Projekt.exe.config
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\bin\Debug\BD2Projekt.exe
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\bin\Debug\BD2Projekt.pdb
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\obj\Debug\BD2Projekt.exe
+C:\Users\Marcel\Desktop\programy\BD2Projekt\BD2Projekt\obj\Debug\BD2Projekt.pdb
